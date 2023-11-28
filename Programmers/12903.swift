@@ -1,10 +1,10 @@
 // 
 // programmers _ Swift 풀이
 // 
-// 제목 : 가운데 글자 가져오기
-// https://school.programmers.co.kr/learn/courses/30/lessons/12903
+// [ 가운데 글자 가져오기 ]
+//   https://school.programmers.co.kr/learn/courses/30/lessons/12903
 // 
-// 트러블슈팅 : https://yy-dev.tistory.com/65
+//   트러블 슈팅 블로그 : https://yy-dev.tistory.com/65
 // 
 
 func solution(_ s:String) -> String {
