@@ -1,10 +1,10 @@
 // 
 // programmers _ Swift 풀이
 // 
-// 제목 : 약수의 개수와 덧셈
-// https://school.programmers.co.kr/learn/courses/30/lessons/77884
+// [ 약수의 개수와 덧셈 ]
+//   https://school.programmers.co.kr/learn/courses/30/lessons/77884
 // 
-// 트러블슈팅 : https://yy-dev.tistory.com/68
+//  트러블 슈팅 블로그 : https://yy-dev.tistory.com/68
 // 
 
 import Foundation
